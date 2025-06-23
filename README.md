@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/jasim-farrukh](github.com/jasim-farrukh)
 
-- 💬 Ask me about **
+- 💬 Ask me about** **
                     🔧 **Back-end**: Python | Django | Flask | FastAPI | Node.js | Express.js | Next.js (API Routes)  
                     🎨 **Front-end**: React | Next.js | TypeScript | Vue.js | Vanilla JS | HTML | CSS | JavaScript | jQuery | Ajax  
                     ☁️ **Cloud Platforms**: AWS | GCP | Azure | DigitalOcean | PythonAnywhere | Docker  
