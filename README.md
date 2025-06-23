@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasim-farrukh&label=Profile%20views&color=0e75b6&style=flat" alt="jasim-farrukh" /> </p>
 
-- 🌱 I’m currently learning **Micro-services**
-
 - 👨‍💻 All of my projects are available at [github.com/jasim-farrukh](github.com/jasim-farrukh)
 
 - 💬 Ask me about **
