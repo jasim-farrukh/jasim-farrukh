@@ -8,11 +8,11 @@
 - 👨‍💻 All of my projects are available at [github.com/jasim-farrukh](github.com/jasim-farrukh)
 
 - 💬 Ask me about **
-                    Back-end: Python | Django | Flask | FastAPI 
-                    Front-end: ReactJS | HTML | CSS | JavaScript | JQuery | Ajax |
-                    Cloud Platforms: AWS | GCP | Azure| Digital Ocean| PythonAnyWhere| Docker |
-                    Databases: PostgreSQL | MariaDB | MySQL | SQLite | MongoDB |
-                    Project Management | Agile 
+          🔧 Back-end: Python | Django | Flask | FastAPI | Node.js | Express.js | Next.js (API Routes)
+          🎨 Front-end: React | Next.js | TypeScript | Vue.js | Vanilla JS | HTML | CSS | JavaScript | jQuery | Ajax
+          ☁️ Cloud Platforms: AWS | GCP | Azure | DigitalOcean | PythonAnywhere | Docker
+          🗄️ Databases: PostgreSQL | MariaDB | MySQL | SQLite | MongoDB | DynamoDB
+          🧠 Other Skills: Agile | Scrum | Project Management
 **
 
 - 📫 How to reach me **jasimfarrukh61@gmail.com**
